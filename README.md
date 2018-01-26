@@ -1,0 +1,2 @@
+# GreenDaoDiary
+用GreenDao框架操作数据库，加个应用开启动画和数字密码验证
