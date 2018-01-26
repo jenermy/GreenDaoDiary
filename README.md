@@ -1,2 +1,6 @@
 # GreenDaoDiary
 用GreenDao框架操作数据库，加个应用开启动画和数字密码验证
+
+
+
+DaoMaster,DaoSession,DiaryDao这三个文件是根据Diary这个文件以及在buid.gradle里面的配置自动生成的
